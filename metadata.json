@@ -1,0 +1,6 @@
+{
+  "name": "Canvas Nova",
+  "description": "Minimalist dark-themed HD wallpaper discovery, auto-wallpaper changer, AI generation, age-restricted vault, and cloud sync app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
